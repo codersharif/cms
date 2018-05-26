@@ -42,7 +42,7 @@
 						<div class="4u$ 12u$(medium)">
 							<!-- Sidebar -->
 							<?php
-							include("Sidebar.php");
+							include("sidebar.php");
 							?>
 						</div>
 					</div>
