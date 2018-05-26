@@ -1,0 +1,17 @@
+.r_post{
+	list-style-type: none;
+}
+.r_post h2{
+	color: #666;
+	background: #000;
+	font-weight: bold;
+	border:1px solid #666;
+	text-transform: uppercase;
+	padding: 5px;
+	font-size: 18px;
+	border-radius: 5px;
+	
+}
+.title{
+	list-style-type: none;
+}

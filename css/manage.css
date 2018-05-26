@@ -1,0 +1,94 @@
+.manage{
+  text-transform: uppercase;
+  margin-left: 16px;
+  border-bottom: 1px solid #666;
+}
+.logout{
+	text-decoration: none;
+	color: #2B4A96;
+	text-transform: uppercase;
+	font-weight: bold; 
+}
+.head th{
+	color: #112642;
+	font-weight: bold;
+	font-size: 18px;
+}
+.m_h{
+	color: #F59A23;
+    border: 1px solid #2B4A96;
+    padding: 5px;
+    background: #666;
+    border-radius: 5px;
+    margin-right: 550px;
+    text-align: center;
+    margin-left: 445px;
+}
+.action_table{
+	margin-top: 16px;
+	margin-left: 400px;
+}
+.action_size{
+	margin-left: 280px !important;
+}
+.action_table th{
+	border:1px solid #666;
+	padding: 5px;
+	text-transform: uppercase;
+	border-radius: 5px;
+	background: orange;
+	color: #2B4A96;
+	font-weight: bold; 
+}
+.action_table td{
+	border:1px solid #666;
+	padding: 5px;
+	text-transform: uppercase;
+	border-radius: 5px;
+	background:#666;
+	color: #fff;
+	font-weight: bold; 
+}
+.delete{
+	margin-left: 25px;
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+	margin-top: 10px;
+
+}
+.success{
+  	margin-left: 20px;
+	font-size: 20px;
+	color: #666;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.tab_tr{
+  margin-left: 435px;
+}
+.mr_t{
+	margin-top: 5px;
+}
+.img{
+    margin-bottom: 2px;
+    border: 1px solid #666;
+    border-radius: 5px;
+}
+.ptag{
+	margin-left: 424px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #000;
+}
+/* .img_logo{
+	margin-top: 15px;
+    margin-left: 15px;
+    max-width: 80px;
+    height: 80px;
+} */
+
+.d_board h2{
+	text-transform: uppercase;
+	text-align: center;
+}
